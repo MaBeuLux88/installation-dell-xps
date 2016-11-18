@@ -129,6 +129,7 @@ During the installation of debian, you can access to some terminals using ctrl +
 In one of these, I could run 2 commands : 
  - ping google.com => KO
  - ping 8.8.8.8 => OK
+
 So apparently, I have internet but no DNS resolution... I'm fucking doomed... There is no other way I think...
 
 Anyway, after multiple tries and some vaudou invocation, I found a plan B.
